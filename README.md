@@ -2,7 +2,7 @@
 - 👀 I’m interested in ConstantLearning
 - 🌱 I’m currently learning WebDevelopment
 - 💞️ I’m looking to collaborate on AIProjects
-- 📫 How to reach me Insta: @karthik_kirito
+- 📫 How to reach me Insta: @karthik_kirito, Email: devakarthik03102001ece@gmail.com
 
 <!---
 Karthik192/Karthik192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
