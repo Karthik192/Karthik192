@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karthik192
-- 👀 I’m interested in ConstantLearning
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on AIProjects
+- 👀 I’m interested in Graphic Design
+- 🌱 I’m currently learning .NET
+- 💞️ I’m looking to collaborate on React, AI Projects
 - 📫 How to reach me Insta: @karthik_kirito, Email: devakarthik03102001ece@gmail.com
 
 <!---
